@@ -1,0 +1,1 @@
+The Music Management System - A c based project which demonstrates the use of structures,pointers,array,file handling,loops,conditional statements and dynamic memory allocation covering all fundamental concepts of the c language
