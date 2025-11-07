@@ -1,0 +1,17 @@
+1,PERFECT,Ed Sheeren,Private ,3.00
+2,CHANNA MEREYA,Arjit singh,Aei Dil Hai Mushkil,3.44
+3,OOSUPODU,Hemachandra,Fidaa,3.56
+4,ZAALIMA,Arjit singh,EMO,3.22
+5,MAST MAGAN,Arjit singh,ERROR!!!,3.49
+6,OORUM BLOOD,Sai Abhyankkar,Dude,3.45
+7,blue,telidhu,idhi kuda,3.55
+8,emitemito,Revanth,Arjun Reddy,3.21
+9,DAGA BAJ RE,kahe kafa aesi,ushhh,4.00
+10,ADHENTOGANI UNNAPATUGA,Anirudh ,Jersey,3.56
+11,BAITAKOCHI CHUSTHE,Anirudh,Agnaathavasi,3.11
+12,INKAEDHO,Ntg,Darling,3.12
+13,SUNDARI,Old,mmm,3.80
+14,yelelama,Harris jayaraj,mid,4.09
+15,TERE BINA,aaaa,bbbb,2.50
+16,NA CHELI ROJAVE,eeeee,rrrrr,3.60
+17,MATE RANI CHINNADHANI,SPB,emo,3.50
